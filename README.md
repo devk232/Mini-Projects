@@ -1,2 +1,3 @@
-# Tic-Tac-Toe-using-Minimax-Algorithm
-Implementation of minimax algorithm in Tic-Tac-Toe game.
+# Mini Projects
+
+This repository contains small projects inplemented by me.
